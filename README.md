@@ -1,6 +1,6 @@
 ## Table of contents
 
-1. <a href="https://orelrafa.github.io/GameAwards#Introduction">Introduction</a>
+1. <a href="https://orelrafa.github.io/GameAwards">Introduction</a>
 2. <a href="#Imports">Imports</a>
 3. <a href="#Data-acquisition">Data acquisition</a><br>
     3.1 <a href="#Crawling-challenges">Crawling challenges</a><br>
