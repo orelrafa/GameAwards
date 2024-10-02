@@ -10,4 +10,6 @@ That's the goal we've set for our research: Can we predict award winning games?
 
 Link to the presentation: https://www.youtube.com/watch?v=Um9Soq7kxXg
 
+Link to deployed site: https://dazzling-pie-21d126.netlify.app/
+
 Credit: Orel Rafailov and Doron Tayar
